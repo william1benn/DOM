@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: rgb(2,0,36);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.textBoxes{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    width: 18%;
+    margin-top:40px;
+}
+
+.inputsText{
+    width: 100%;
+    font-size: 14pt;
+    margin-top:17px;
+    background-color: white;
+}
+

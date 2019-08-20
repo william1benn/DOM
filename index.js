@@ -17,7 +17,7 @@ if ( btnLite.classList.contains('lite') ){
 
 }
 
-if ( btnLite.classList.contains('dark') ){
+else if ( btnLite.classList.contains('dark') ){
 
     btnLite.innerText = "Light Mode";
 
